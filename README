@@ -1,6 +1,0 @@
-Tornado web server test demo
-
-run test
-```
-python -m unittest test_tornado_hello.py 
-```
