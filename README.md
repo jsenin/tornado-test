@@ -15,5 +15,5 @@ pip install -r requirements.txt --upgrade
 ## execute 
 run test
 ```
-python -m unittest test_tornado_hello.py 
+python -m unittest spec/test_tornado_hello.py 
 ```
